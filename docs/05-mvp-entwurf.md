@@ -22,7 +22,7 @@ Dieses Dokument nagelt die Spec auf ein **sinnvolles Mindestmaß**, solange [ant
 - Plex-Auth per `X-Plex-Token` + Server-URL (HTTPS, Port 443)
 - Playlist-Browse und Sync-Auswahl auf der Uhr
 - Download im Wi‑Fi Sync Mode
-- Plex-Transcode nach MP3 falls nötig
+- Pöex Dateien sind MP3, transcoding sollte nicht nötig sein
 - Offline-Wiedergabe (Playlists, Shuffle)
 - Edge: Reverse Proxy oder `*.plex.direct` mit gültigem Zertifikat
 - Verständliche Fehlermeldungen bei TLS/Port/Auth
